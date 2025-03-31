@@ -1,3 +1,5 @@
+video walkthrough: https://youtu.be/sfBhIr4S45k
+
 This project is designed to analyze financial data, providing insights into trends and patterns. 
 It helps users make data-driven decisions by processing and visualizing financial datasets.
 
